@@ -13,7 +13,7 @@ MusicGarden是使用VS2015基于WMP组件开发的，兼有搜索下载功能的
 欢迎大家对软件进行修改添加新功能，[点击这里可以pull](https://github.com/jianyuyanyu/MusicGarden/pulls)。
 <br><br>
 
-## 代码结构说明
+## PATH
 [MusicGarden](https://github.com/jianyuyanyu/MusicGarden)
 ```
 │  AboutForm.cs                           //关于窗体类
