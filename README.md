@@ -8,7 +8,7 @@ MusicGarden是使用VS2015基于WMP组件开发的，兼有搜索下载功能的
 想打开软件运行？欢迎查看本仓库的 [Releases](https://github.com/jianyuyanyu/MusicGarden/releases)，
 
 下载软件后，请先全部解压出来，不要丢失文件，也不要在压缩软件中打开，因为部分压缩软件中无法正常运行程序。
-如遇安装问题请下载.NET环境及工具，按说明处理。其他操作系统如打不开或者打开报错，则需安装：Microsoft. NET Framework 4.X， 推荐安装[.NET Framework 4.8](https://dotnet.microsoft.com/download/dotnet-framework/thank-you/net48-chs)，下载地址：https://dotnet.microsoft.com/download/dotnet-framework/net48。
+如遇安装问题请下载.NET环境及工具，按说明处理。其他操作系统如打不开或者打开报错，则需安装：Microsoft. NET Framework 4.X， 推荐安装[.NET Framework 4.8](https://dotnet.microsoft.com/download/dotnet-framework/thank-you/net48-chs)，下载地址：https://dotnet.microsoft.com/download/dotnet-framework/net48 。
 <br><br>
 欢迎大家对软件进行修改添加新功能，[点击这里可以pull](https://github.com/jianyuyanyu/MusicGarden/pulls)。
 <br><br>
